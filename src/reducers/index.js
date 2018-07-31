@@ -1,6 +1,6 @@
 import {
   ADD_RECIPE,
-  removeFromCalendar,
+  // removeFromCalendar,
   REMOVE_FROM_CALENDAR
 } from '../actions/index'
 
