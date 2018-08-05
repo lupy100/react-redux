@@ -2153,6 +2153,10 @@ dotenv@4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-4.0.0.tgz#864ef1379aced55ce6f95debecdce179f7a0cd1d"
 
+dotenv@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-6.0.0.tgz#24e37c041741c5f4b25324958ebbc34bca965935"
+
 duplexer3@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
@@ -5689,6 +5693,10 @@ react-error-overlay@^1.0.9:
     react-dev-utils "^3.1.0"
     settle-promise "1.0.0"
     source-map "0.5.6"
+
+react-icons@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-3.0.4.tgz#e1f09a51f837dd0218a4a7d30060e1be79a59a8f"
 
 react-redux@^5.0.7:
   version "5.0.7"
